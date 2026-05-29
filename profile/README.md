@@ -22,9 +22,9 @@ Arte Café operated with physical records, paper receipts and verbal payment agr
 
 | Repo | Stack |
 |---|---|
-| [backend-softwart](https://github.com/SoftwArt/softwart-backend) | Node.js · Express · TypeScript · TypeORM · PostgreSQL |
-| [frontend-softwart-2](https://github.com/SoftwArt/frontend-softwart-2) | React · TypeScript · Vite · Tailwind · shadcn/ui |
-| [mobile-softwart](https://github.com/SoftwArt/mobile-softwart) | Flutter · Dart · Clean Architecture · Provider |
+| [softwart-backend](https://github.com/SoftwArt/softwart-backend) | Node.js · Express · TypeScript · TypeORM · PostgreSQL |
+| [softwart-frontend](https://github.com/SoftwArt/softwart-frontend) | React · TypeScript · Vite · Tailwind · shadcn/ui |
+| [softwart-mobile](https://github.com/SoftwArt/softwart-mobile) | Flutter · Dart · Clean Architecture · Provider |
 | [softwart-docs](https://github.com/SoftwArt/softwart-docs) | Technical and academic documentation |
 
 ### Infrastructure
@@ -62,9 +62,9 @@ Arte Café manejaba su operación con agendas físicas, recibos en papel y acuer
 
 | Repo | Stack |
 |---|---|
-| [backend-softwart](https://github.com/SoftwArt/softwart-backend) | Node.js · Express · TypeScript · TypeORM · PostgreSQL |
-| [frontend-softwart-2](https://github.com/SoftwArt/frontend-softwart-2) | React · TypeScript · Vite · Tailwind · shadcn/ui |
-| [mobile-softwart](https://github.com/SoftwArt/mobile-softwart) | Flutter · Dart · Clean Architecture · Provider |
+| [softwart-backend](https://github.com/SoftwArt/softwart-backend) | Node.js · Express · TypeScript · TypeORM · PostgreSQL |
+| [softwart-frontend](https://github.com/SoftwArt/softwart-frontend) | React · TypeScript · Vite · Tailwind · shadcn/ui |
+| [softwart-mobile](https://github.com/SoftwArt/softwart-mobile) | Flutter · Dart · Clean Architecture · Provider |
 | [softwart-docs](https://github.com/SoftwArt/softwart-docs) | Technical and academic documentation |
 
 ### Infraestructura
