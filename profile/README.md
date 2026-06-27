@@ -1,4 +1,4 @@
-# SoftwArt
+a# SoftwArt
 
 > 🇨🇴 [Español](#español) · 🌐 [English](#english)
 
@@ -36,6 +36,7 @@ Arte Café operated with physical records, paper receipts and verbal payment agr
 | Supabase | PostgreSQL 15 (managed) |
 | Cloudinary | Image storage and delivery |
 | Namecheap | Domain (`softwart.online`) |
+| Resend | Mail service |
 
 ### Built by
 
