@@ -77,6 +77,7 @@ Arte Café manejaba su operación con agendas físicas, recibos en papel y acuer
 | Supabase | PostgreSQL 15 (gestionado) |
 | Cloudinary | Almacenamiento y distribución de imágenes |
 | Namecheap | Dominio (`softwart.online`) |
+| Resend | Servicio de correos |
 
 ### Desarrollado por
 
