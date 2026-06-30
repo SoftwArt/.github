@@ -1,4 +1,4 @@
-a# SoftwArt
+# SoftwArt
 
 > 🇨🇴 [Español](#español) · 🌐 [English](#english)
 
@@ -13,6 +13,14 @@ Developed as a capstone project for the **Technology in Software Analysis and De
 ### The problem it solves
 
 Arte Café operated with physical records, paper receipts and verbal payment agreements. Customers had to visit the shop in person to schedule appointments or check on their orders. SoftwArt replaces that entirely with a centralized digital system deployed in production.
+
+### Key features
+
+- Appointment scheduling with real-time availability — including guest booking, no account required
+- Sales with flexible installment plans · order tracking · payment management
+- Self-service client portal: book and track appointments, follow service status
+- Role-based admin panel (Admin / Employee / Client) with granular permissions
+- Android companion app for staff — live consultation + push notifications (FCM)
 
 ### System
 
@@ -37,6 +45,7 @@ Arte Café operated with physical records, paper receipts and verbal payment agr
 | Cloudinary | Image storage and delivery |
 | Namecheap | Domain (`softwart.online`) |
 | Resend | Mail service |
+| Firebase | Push notifications (FCM) for the mobile app |
 
 ### Built by
 
@@ -54,6 +63,14 @@ Desarrollado como proyecto de grado de la **Tecnología en Análisis y Desarroll
 ### El problema que resuelve
 
 Arte Café manejaba su operación con agendas físicas, recibos en papel y acuerdos verbales de pago. Los clientes debían ir presencialmente para agendar citas o ver el avance de su pedido. SoftwArt reemplaza ese flujo con un sistema centralizado desplegado en producción.
+
+### Funcionalidades clave
+
+- Agendamiento de citas con disponibilidad en tiempo real — incluye agendamiento de invitados, sin necesidad de cuenta
+- Ventas con planes de abono flexibles · seguimiento de pedidos · gestión de pagos
+- Portal de autoservicio para clientes: agendar y consultar citas, seguir el estado del servicio
+- Panel admin basado en roles (Admin / Empleado / Cliente) con permisos granulares
+- App Android complementaria para el personal — consulta en vivo + notificaciones push (FCM)
 
 ### Sistema
 
@@ -78,6 +95,7 @@ Arte Café manejaba su operación con agendas físicas, recibos en papel y acuer
 | Cloudinary | Almacenamiento y distribución de imágenes |
 | Namecheap | Dominio (`softwart.online`) |
 | Resend | Servicio de correos |
+| Firebase | Notificaciones push (FCM) para la app móvil |
 
 ### Desarrollado por
 
